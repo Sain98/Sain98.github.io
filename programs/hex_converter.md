@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hex Converter
-permalink: hex_converter
 ---
 
 [back](./)
